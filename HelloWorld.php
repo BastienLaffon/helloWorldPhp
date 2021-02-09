@@ -18,6 +18,7 @@ $res = $stmt->fetch();
     <title>Test PHP</title>
 </head>
 <body>
+<h1>Test</h1>
 <h1> <?php echo $res[0]; ?></h1>
 
 

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9700cf54-b07f-4375-9e78-30736f66aaf9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld.php" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.php" afterDir="false" />
     </list>
@@ -38,8 +36,8 @@
       <file leaf-file-name="HelloWorld.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloWorld.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -122,12 +120,12 @@
       <updated>1612801610434</updated>
       <workItem from="1612801612910" duration="389000" />
       <workItem from="1612802270543" duration="2507000" />
-      <workItem from="1612858695163" duration="1950000" />
+      <workItem from="1612858695163" duration="2470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4846000" />
+    <option name="totallyTimeSpent" value="5366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="744" y="0" width="936" height="1050" extended-state="0" />
@@ -142,7 +140,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2920168" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2920168" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -170,8 +168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
